@@ -81,9 +81,11 @@
 
 ## 📫 Contact
 
-📧 Your email here  
-💼 LinkedIn (optional)  
-🐉 HackTheBox: (add your link)
+📧 mlameiro12@gmail.com  
+
+💼 LinkedIn: pending 
+
+🐉 HackTheBox: pending
 
 ---
 
