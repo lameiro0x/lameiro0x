@@ -1,7 +1,8 @@
 <!-- Hacker Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/ZT8kzjP.gif" width="800" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/The-lost-Apolo/The-lost-Apolo/main/assests/imagen1.gif" width="800"/>
 </p>
+
 
 <h1 align="center">👾 Miguel Lameiro Martínez — Cybersecurity Enthusiast</h1>
 <p align="center">🔐 Computer Engineering Student @ URJC | Pentesting Path (HTB) | Linux Lover | Offensive Security Focus</p>
@@ -90,5 +91,6 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/SSCPJ8K.gif" width="400" alt="matrix-dragon"/>
+  <img src="https://raw.githubusercontent.com/The-lost-Apolo/The-lost-Apolo/main/assests/imagen2.gif" width="400"/>
 </p>
+
