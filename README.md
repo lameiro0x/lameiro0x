@@ -56,15 +56,15 @@
 
 > These repositories will demonstrate my progress in pentesting and cybersecurity fundamentals.
 
+<!-- Pendiente de poner cuando mejoren
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=The-lost-Apolo&show_icons=true&theme=chartreuse-dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-lost-Apolo&layout=compact&theme=chartreuse-dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=The-lost-Apolo&show_icons=true&theme=chartreuse-dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=The-lost-Apolo&layout=compact&theme=chartreuse-dark" />
 </p>
-
+-->
 ---
 
 ## 🔥 Cyber Focus Areas
