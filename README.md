@@ -1,6 +1,6 @@
 <!-- Hacker Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-lost-Apolo/The-lost-Apolo/main/assests/imagen1.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/The-lost-Apolo/The-lost-Apolo/main/assets/imagen1.gif" width="800"/>
 </p>
 
 
@@ -91,6 +91,6 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-lost-Apolo/The-lost-Apolo/main/assests/imagen2.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/The-lost-Apolo/The-lost-Apolo/main/assets/imagen2.gif" width="400"/>
 </p>
 
