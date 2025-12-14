@@ -68,15 +68,18 @@
 - 📚 **[security-foundations-htb-notes](https://github.com/lameiro0x/security-foundations-htb-notes)**  
   Structured notes, diagrams, and references based on the Hack The Box Information Security Foundations track.
 
-<!-- Pendiente de poner cuando mejoren
+
 ---
 ## 📊 GitHub Stats
 
+<!-- Pendiente de poner cuando mejoren
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lameiro0x&show_icons=true&theme=chartreuse-dark" />
+-->
+  
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lameiro0x&layout=compact&theme=chartreuse-dark" />
 </p>
--->
+
 ---
 
 ## 🔥 Cyber Focus Areas
