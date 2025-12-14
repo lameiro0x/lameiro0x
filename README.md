@@ -89,7 +89,7 @@
 + SCRIPTS FOR OFFENSIVE SECURITY
 + CTF METHODOLOGY & WRITEUPS
 ```
-
+<!-- Pendiente de poner cuando mejoren
 ---
 
 ## 📫 Contact
@@ -99,3 +99,4 @@
 💼 LinkedIn: pending 
 
 🐉 HackTheBox: pending
+-->
