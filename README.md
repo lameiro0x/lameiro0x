@@ -1,6 +1,6 @@
 <!-- Hacker Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/The-lost-Apolo/The-lost-Apolo/main/assets/imagen1.gif" width="800"/>
+  <img src="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/banner.gif" width="800"/>
 </p>
 
 
@@ -11,7 +11,7 @@
 
 ```diff
 + INITIALIZING PROFILE...
-+ USER: The-lost-Apolo
++ USER: lameiro0x
 + STATUS: ACTIVE
 + FIELD: CYBERSECURITY / ETHICAL HACKING
 + ACCESS LEVEL: STUDENT • PENTESTER IN TRAINING
@@ -47,22 +47,34 @@
 
 ---
 
-## 🧪 Work in Progress — Projects Coming Soon
+## 🧪 Projects Overview
 
-- 🛡️ **cyber-scripts** → small offensive/defensive tools (port scanner, log parser, recon scripts)  
-- 📂 **ctf-writeups** → structured writeups from HackTheBox / TryHackMe  
-- 📡 **security-labs** → mini IDS, encryption demos, vulnerable servers + patches  
-- 🐚 **linux-hardening** → configs, automation scripts, secure setups  
+### 🚧 Work in Progress
 
-> These repositories will demonstrate my progress in pentesting and cybersecurity fundamentals.
+- 🛡️ **[pentesting-path-htb](https://github.com/lameiro0x/pentesting-path-htb)**  
+  Structured notes and exercises following the Hack The Box Pentesting Path, focused on methodology, tooling, and hands-on exploitation.
+
+### ✅ Completed / Active Projects
+
+- 🔌 **[pico-hid-security-lab](https://github.com/lameiro0x/pico-hid-security-lab)**  
+  Educational lab for analyzing USB HID behavior and keystroke injection techniques using Raspberry Pi Pico.
+
+- 🚩 **[ctf-security-training](https://github.com/lameiro0x/ctf-security-training)**  
+  Consolidated notes and practical exercises from CTFs and cybersecurity training sessions.
+
+- 🐚 **[bash-scripting-labs-OTW](https://github.com/lameiro0x/bash-scripting-labs-OTW)**  
+  Bash scripts, commands, and notes developed while practicing Linux fundamentals and OverTheWire wargames.
+
+- 📚 **[security-foundations-htb-notes](https://github.com/lameiro0x/security-foundations-htb-notes)**  
+  Structured notes, diagrams, and references based on the Hack The Box Information Security Foundations track.
 
 <!-- Pendiente de poner cuando mejoren
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=The-lost-Apolo&show_icons=true&theme=chartreuse-dark" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=The-lost-Apolo&layout=compact&theme=chartreuse-dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lameiro0x&show_icons=true&theme=chartreuse-dark" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lameiro0x&layout=compact&theme=chartreuse-dark" />
 </p>
 -->
 ---
@@ -87,10 +99,3 @@
 💼 LinkedIn: pending 
 
 🐉 HackTheBox: pending
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/The-lost-Apolo/The-lost-Apolo/main/assets/imagen2.gif" width="400"/>
-</p>
-
