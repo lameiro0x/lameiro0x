@@ -94,7 +94,7 @@
 
 ## 📫 Contact
 
-📧 mlameiro12@gmail.com  
+📧 lameiro0x@gmail.com
 
 💼 LinkedIn: pending 
 
