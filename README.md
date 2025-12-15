@@ -33,7 +33,7 @@
 
 ### 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,java,cpp,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,java,mysql,docker" />
 </p>
 
 ### 🔐 Cybersecurity Tools
