@@ -1,6 +1,6 @@
 <!-- Hacker Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/banner.gif" width="600"/>
+  <img src="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/banner.gif" width="1920"/>
 </p>
 
 
