@@ -32,7 +32,7 @@
 ## 📝 Cybersecurity Notes & Writeups
 
 <p align="center">
-  <a href="[blog.lameiro0x.com](https://blog.lameiro0x.com/)">
+  <a href="https://blog.lameiro0x.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Cybersecurity_Blog-Writeups_&_Notes-9fef00?style=for-the-badge">
   </a>
 </p>
