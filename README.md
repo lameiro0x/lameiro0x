@@ -32,7 +32,7 @@
 ## 📝 Cybersecurity Notes & Writeups
 
 <p align="center">
-  <a href="https://[blog.lameiro0x.com](https://blog.lameiro0x.com/)">
+  <a href="[blog.lameiro0x.com](https://blog.lameiro0x.com/)">
     <img src="https://img.shields.io/badge/Cybersecurity_Blog-Writeups_&_Notes-9fef00?style=for-the-badge">
   </a>
 </p>
@@ -46,7 +46,8 @@ I maintain a personal cybersecurity blog where I document my learning journey in
 
 This blog is part of my long-term learning process and professional portfolio in cybersecurity.
 
-🔗 **Live blog**: https://[blog.lameiro0x.com](https://blog.lameiro0x.com/)  
+🔗 **Live blog**: [blog.lameiro0x.com](https://blog.lameiro0x.com/)  
+
 ---
 
 ## ⚙️ Tech Arsenal
