@@ -29,6 +29,30 @@
 
 ---
 
+## 📝 Cybersecurity Notes & Writeups
+
+<p align="center">
+  <a href="https://TU-BLOG-AQUI">
+    <img src="https://img.shields.io/badge/Cybersecurity_Blog-Writeups_&_Notes-9fef00?style=for-the-badge">
+  </a>
+</p>
+
+I maintain a personal cybersecurity blog where I document my learning journey in offensive security, including:
+
+- Pentesting methodologies and lab walkthroughs
+- CTF writeups and exploitation techniques
+- Linux internals, privilege escalation, and post-exploitation notes
+- Structured learning notes from platforms like Hack The Box
+
+This blog is part of my long-term learning process and professional portfolio in cybersecurity.
+
+🔗 **Live blog**: https://TU-BLOG-AQUI  
+📦 **Source code**: https://github.com/USUARIO/REPO-DEL-BLOG
+
+---
+
+---
+
 ## ⚙️ Tech Arsenal
 
 ### 🛠️ Languages & Tools
@@ -99,7 +123,7 @@
 
 📧 lameiro0x@gmail.com
 
-💼 LinkedIn: pending 
+💼 LinkedIn: www.linkedin.com/in/lameiro0x
 
 🐉 HackTheBox: pending
 -->
