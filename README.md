@@ -89,7 +89,7 @@ This blog is part of my long-term learning process and professional portfolio in
 - 🛡️ **[pentesting-path-htb](https://github.com/lameiro0x/pentesting-path-htb)**  
   Structured notes and exercises following the Hack The Box Pentesting Path, focused on methodology, tooling, and hands-on exploitation.
 
-### ✅ Completed / Active Projects
+### ✅ Completed Projects
 
 - 🔌 **[pico-hid-security-lab](https://github.com/lameiro0x/pico-hid-security-lab)**  
   Educational lab for analyzing USB HID behavior and keystroke injection techniques using Raspberry Pi Pico.
