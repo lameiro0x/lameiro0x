@@ -70,6 +70,20 @@ This blog is part of my long-term learning process and professional portfolio in
 
 ## 🧪 Projects Overview
 
+### 🛠️ Security Tools (Author Projects)
+
+- 🔍 **[pentest-recon-toolkit](https://github.com/lameiro0x/pentest-recon-toolkit)**  
+  Modular Python toolkit that automates the reconnaissance phase of a penetration test, providing structured DNS, port scanning, and web enumeration with professional **JSON and Markdown reports**.  
+  *Focus: methodology-driven recon, automation, and clean reporting.*
+
+- 🔐 **[credential-audit-tool](https://github.com/lameiro0x/credential-audit-tool)**  
+  Python-based security auditing tool that detects **insecure credential handling**, hardcoded secrets, and credential reuse on local systems.  
+  *Focus: risk identification and mitigation without exploitation.*
+
+- 🐧 **[linux-privesc-analyzer](https://github.com/lameiro0x/linux-privesc-analyzer)**  
+  Local Linux analysis tool that correlates system misconfigurations to identify **privilege escalation risks**, without performing exploitation.  
+  *Focus: defensive awareness and attacker mindset.*
+
 ### 🚧 Work in Progress
 
 - 🛡️ **[pentesting-path-htb](https://github.com/lameiro0x/pentesting-path-htb)**  
