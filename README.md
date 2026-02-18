@@ -24,11 +24,11 @@
 I maintain a central professional hub where I showcase my cybersecurity projects, tools, blog, and ongoing work.
 
 This website acts as a structured portfolio highlighting:
-	- Custom-built security tools
-	- Offensive and defensive security projects
-	- Technical documentation and structured learning notes
-	- Maintained web applications
-	- Professional goals and internship focus
+- Custom-built security tools
+- Offensive and defensive security projects
+- Technical documentation and structured learning notes
+- Maintained web applications
+- Professional goals and internship focus
 
 🔗 Main Website: [lameiro0x.com](https://lameiro0x.com/)  
 
