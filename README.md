@@ -19,7 +19,7 @@
 
 ---
 
-🌐 Personal Hub
+## 🌐 Personal Hub
 
 I maintain a central professional hub where I showcase my cybersecurity projects, tools, blog, and ongoing work.
 
