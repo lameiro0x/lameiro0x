@@ -44,6 +44,14 @@ This website acts as a structured portfolio highlighting:
 
 ---
 
+## 🌍 Live Web Apps
+
+A few projects I build and host under my own domain:
+
+- 🛡️ **[Is It Safe?](https://safe.lameiro0x.com)** — free online security tools to check website safety, phishing links, suspicious messages, files and passwords.
+- 🎭 **[Impostor Game](https://play.lameiro0x.com)** — fast social-deduction party game for groups, playable offline on one device or online in a shared room.
+- 🤖 **[ORION-AI](https://orion.lameiro0x.com)** — local AI cybersecurity assistant for blue team workflows and security operations.
+
 ---
 
 ## 🏆 Certifications & Achievements
