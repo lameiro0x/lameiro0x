@@ -1,6 +1,9 @@
-<!-- Hacker Banner -->
+<!-- Brand mark: the totem (repo logo-peonza) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/banner.gif" width="800"/>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/peonza-film-still.svg">
+    <img src="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/peonza-film.svg" width="840" alt="lameiro0x: a spinning top wobbles, and the picture cuts to black">
+  </picture>
 </p>
 
 
