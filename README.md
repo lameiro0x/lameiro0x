@@ -1,10 +1,11 @@
 <!-- Brand mark: the totem (repo logo-peonza) -->
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/peonza-film-still.svg">
-    <img src="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/peonza-film.svg" width="840" alt="lameiro0x: a spinning top wobbles, and the picture cuts to black">
+    <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/banner-still.svg">
+    <img src="https://raw.githubusercontent.com/lameiro0x/lameiro0x/main/assets/banner.svg" width="800" alt="lameiro0x: a spinning top wobbles, and the picture cuts to black">
   </picture>
 </p>
+<p align="center"><sub>Peonza mark and animations © 2026 lameiro0x. All rights reserved. <a href="https://art.lameiro0x.com">art.lameiro0x.com</a></sub></p>
 
 
 <h1 align="center">👾 Miguel Lameiro Martínez — Cybersecurity Enthusiast</h1>
